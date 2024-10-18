@@ -32,51 +32,54 @@ enableGitInfo = true
   contentDir = 'content.de'
   weight = 2
 
-[menu]
-[[menu.main]]
+[menus]
+[[menus.after]]
   name = "Web-Blog"
   url = "/posts/web/"
   weight = 10
-[[menu.main]]
+[[menus.after]]
   name = "Synth-Blog"
   url = "/tags/synth/"
   weight = 20
-[[menu.main]]
+[[menus.after]]
   name = "docs"
   url = "/docs/"
   weight = 10
 
-[[menu.main]]
+[[menus.after]]
   name = "Electronics 101"
   url = "/pages/prequel-short-introduction-to-electronics"
   weight = 26
-[[menu.main]]
+[[menus.after]]
   name = "Electronics 102"
   url = "/pages/short-introduction-to-electronics-102"
   weight = 27
-[[menu.main]]
+[[menus.after]]
   name = "Digital Logic 1 (Overview)"
   url = "/pages/overview/"
   weight = 20
-[[menu.main]]
+[[menus.after]]
   name = "Digital Logic 2 (Overview)"
   url = "/pages/overview2/"
   weight = 25
-[[languages.en.menu]]
+[[menus.after]]
   name = "About"
   url = "/pages/about/"
+  weight = 24
+[[menus.de]]
+    name = "Elektronik 101"
+    url = "/pages/prequel-short-introduction-to-electronics-de"
+    weight = 19
 
-[[menu.main.de]]
-  name = "Elektronik 101"
-  url = "/pages/prequel-short-introduction-to-electronics-de"
-  weight = 19
-[[menu.main.de]]
-  name = "Elektronik 102"
-  url = "/pages/short-introduction-to-electronics-102-de"
-  weight = 20
-[[menu.main.de]]
-  name = "Über"
-  url = "/pages/ueber/"
+  [[menus.de]]
+    name = "Elektronik 102"
+    url = "/pages/short-introduction-to-electronics-102-de"
+    weight = 20
+
+  [[menus.de]]
+    name = "Über"
+    url = "/pages/ueber/"
+    weight = 24
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
