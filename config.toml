@@ -33,16 +33,50 @@ enableGitInfo = true
   weight = 2
 
 [menu]
-# [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+[[menu.main]]
+  name = "Web-Blog"
+  url = "/posts/web/"
+  weight = 10
+[[menu.main]]
+  name = "Synth-Blog"
+  url = "/tags/synth/"
+  weight = 20
+[[menu.main]]
+  name = "docs"
+  url = "/docs/"
   weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/themes/hugo-book/"
+[[menu.main]]
+  name = "Electronics 101"
+  url = "/pages/prequel-short-introduction-to-electronics"
+  weight = 26
+[[menu.main]]
+  name = "Electronics 102"
+  url = "/pages/short-introduction-to-electronics-102"
+  weight = 27
+[[menu.main]]
+  name = "Digital Logic 1 (Overview)"
+  url = "/pages/overview/"
   weight = 20
+[[menu.main]]
+  name = "Digital Logic 2 (Overview)"
+  url = "/pages/overview2/"
+  weight = 25
+[[languages.en.menu]]
+  name = "About"
+  url = "/pages/about/"
+
+[[menu.main.de]]
+  name = "Elektronik 101"
+  url = "/pages/prequel-short-introduction-to-electronics-de"
+  weight = 19
+[[menu.main.de]]
+  name = "Elektronik 102"
+  url = "/pages/short-introduction-to-electronics-102-de"
+  weight = 20
+[[menu.main.de]]
+  name = "Über"
+  url = "/pages/ueber/"
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
