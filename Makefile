@@ -12,7 +12,7 @@ up:
 
 
 deployment:
-	rsync -rav public/ wehrend@giclas.uberspace.de:/var/www/virtual/wehrend/html --delete
+	rsync -rav --progress public/ wehrend@giclas.uberspace.de:/var/www/virtual/wehrend/html --delete
 
 cleanup:
 	rm -rf public/
