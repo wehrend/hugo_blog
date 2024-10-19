@@ -64,7 +64,7 @@ enableGitInfo = true
   weight = 25
 [[menus.after]]
   name = "About"
-  url = "/pages/about/"
+  url = "/en/pages/about/"
   weight = 24
 [[menus.de]]
     name = "Elektronik 101"
@@ -78,7 +78,7 @@ enableGitInfo = true
 
   [[menus.de]]
     name = "Über"
-    url = "/pages/ueber/"
+    url = "/de/pages/ueber/"
     weight = 24
 
 [params]

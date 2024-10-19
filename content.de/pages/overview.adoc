@@ -1,3 +1,5 @@
+---
+
 .. title: How does a CPU work? Overview
 .. slug: how-does-a-cpu-work-overview
 .. date: 2020-12-20
@@ -6,6 +8,7 @@
 .. link:
 .. description:
 .. type: text
+---
 
 = How does a CPU work - Table of contents
 
