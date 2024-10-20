@@ -27,58 +27,58 @@ enableGitInfo = true
   contentDir = 'content'
   weight = 1
 
+[[languages.en.menus.after]]
+  name = "Web-Blog"
+  url = "/posts/web/"
+  weight = 10
+[[languages.en.menus.after]]
+  name = "Synth-Blog"
+  url = "/tags/synth/"
+  weight = 20
+[[languages.en.menus.after]]
+  name = "docs"
+  url = "/docs/"
+  weight = 10
+
+[[languages.en.menus.after]]
+  name = "Electronics 101"
+  url = "/pages/prequel-short-introduction-to-electronics"
+  weight = 26
+[[languages.en.menus.after]]
+  name = "Electronics 102"
+  url = "/pages/short-introduction-to-electronics-102"
+  weight = 27
+[[languages.en.menus.after]]
+  name = "Digital Logic 1 (Overview)"
+  url = "/pages/overview/"
+  weight = 20
+[[languages.en.menus.after]]
+  name = "Digital Logic 2 (Overview)"
+  url = "/pages/overview2/"
+  weight = 25
+[[languages.en.menus.after]]
+  name = "About"
+  url = "/en/pages/about/"
+  weight = 24
+
 [languages.de]
   languageName = 'Deutsch'
   contentDir = 'content.de'
   weight = 2
 
-[menus]
-[[menus.after]]
-  name = "Web-Blog"
-  url = "/posts/web/"
-  weight = 10
-[[menus.after]]
-  name = "Synth-Blog"
-  url = "/tags/synth/"
-  weight = 20
-[[menus.after]]
-  name = "docs"
-  url = "/docs/"
-  weight = 10
-
-[[menus.after]]
-  name = "Electronics 101"
-  url = "/pages/prequel-short-introduction-to-electronics"
-  weight = 26
-[[menus.after]]
-  name = "Electronics 102"
-  url = "/pages/short-introduction-to-electronics-102"
-  weight = 27
-[[menus.after]]
-  name = "Digital Logic 1 (Overview)"
-  url = "/pages/overview/"
-  weight = 20
-[[menus.after]]
-  name = "Digital Logic 2 (Overview)"
-  url = "/pages/overview2/"
-  weight = 25
-[[menus.after]]
-  name = "About"
-  url = "/en/pages/about/"
-  weight = 24
-[[menus.de]]
+[[languages.de.menus.after]]
     name = "Elektronik 101"
     url = "/pages/prequel-short-introduction-to-electronics-de"
     weight = 19
 
-  [[menus.de]]
+  [[languages.de.menus.after]]
     name = "Elektronik 102"
     url = "/pages/short-introduction-to-electronics-102-de"
     weight = 20
 
-  [[menus.de]]
+  [[languages.de.menus.after]]
     name = "Über"
-    url = "/de/pages/ueber/"
+    url = "/de/pages/about/"
     weight = 24
 
 [params]
