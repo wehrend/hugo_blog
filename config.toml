@@ -3,10 +3,10 @@ languageCode = "en-us"
 title = "Bits & pieces - Sven Wehrend"
 theme = "hugo-book"
 defaultContentLanguage = "en"  # Standardmäßig Englisch
-defaultContentLanguageInSubdir = true  # Sprachverzeichnisse aktivieren
+#defaultContentLanguageInSubdir = true  # Sprachverzeichnisse aktivieren
 
 # Book configuration
-disablePathToLower = true
+disablePathToLower = false
 enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
@@ -29,24 +29,24 @@ enableGitInfo = true
 
 [[languages.en.menus.after]]
   name = "Web-Blog"
-  url = "/posts/web/"
+  url = "/en/posts/web/"
   weight = 10
 [[languages.en.menus.after]]
   name = "Synth-Blog"
-  url = "/tags/synth/"
+  url = "/en/tags/synth/"
   weight = 20
 [[languages.en.menus.after]]
   name = "docs"
-  url = "/docs/"
+  url = "/en/docs/"
   weight = 10
 
 [[languages.en.menus.after]]
   name = "Electronics 101"
-  url = "/pages/prequel-short-introduction-to-electronics"
+  url = "/en/pages/prequel-short-introduction-to-electronics"
   weight = 26
 [[languages.en.menus.after]]
   name = "Electronics 102"
-  url = "/pages/short-introduction-to-electronics-102"
+  url = "/en/pages/short-introduction-to-electronics-102"
   weight = 27
 [[languages.en.menus.after]]
   name = "Digital Logic 1 (Overview)"
@@ -68,12 +68,12 @@ enableGitInfo = true
 
 [[languages.de.menus.after]]
     name = "Elektronik 101"
-    url = "/pages/prequel-short-introduction-to-electronics-de"
+    url = "/de/pages/prequel-short-introduction-to-electronics"
     weight = 19
 
   [[languages.de.menus.after]]
     name = "Elektronik 102"
-    url = "/pages/short-introduction-to-electronics-102-de"
+    url = "/de/pages/short-introduction-to-electronics-102"
     weight = 20
 
   [[languages.de.menus.after]]
