@@ -24,7 +24,7 @@ enableGitInfo = true
 [languages]
 [languages.en]
   languageName = 'English'
-  contentDir = 'content'
+  contentDir = 'content/content.en'
   weight = 1
 
 [[languages.en.menus.after]]
@@ -63,7 +63,7 @@ enableGitInfo = true
 
 [languages.de]
   languageName = 'Deutsch'
-  contentDir = 'content.de'
+  contentDir = 'content/content.de'
   weight = 2
 
 [[languages.de.menus.after]]
