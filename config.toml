@@ -75,9 +75,17 @@ enableGitInfo = true
     weight = 20
 
   [[languages.de.menus.after]]
+    name = "Digitale Logik 1 (Übersicht)"
+    url = "/de/pages/overview/"
+    weight = 24
+  [[languages.de.menus.after]]
+    name = "Digitale Logik 2 (Übersicht)"
+    url = "/de/pages/overview2/"
+    weight = 25
+  [[languages.de.menus.after]]
     name = "Über"
     url = "/de/pages/about/"
-    weight = 24
+    weight = 26
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
