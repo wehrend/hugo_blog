@@ -4,6 +4,8 @@ title = "Bits & pieces - Sven Wehrend"
 theme = "hugo-book"
 defaultContentLanguage = "en"  # Standardmäßig Englisch
 #defaultContentLanguageInSubdir = true  # Sprachverzeichnisse aktivieren
+timeout = "300s"
+
 
 # Book configuration
 disablePathToLower = false
@@ -35,10 +37,6 @@ enableGitInfo = true
   name = "Synth-Blog"
   url = "/en/tags/synth/"
   weight = 20
-[[languages.en.menus.after]]
-  name = "docs"
-  url = "/en/docs/"
-  weight = 10
 
 [[languages.en.menus.after]]
   name = "Electronics 101"
@@ -51,7 +49,7 @@ enableGitInfo = true
 [[languages.en.menus.after]]
   name = "Digital Logic 1 (Overview)"
   url = "/pages/overview/"
-  weight = 20
+  weight = 24
 [[languages.en.menus.after]]
   name = "Digital Logic 2 (Overview)"
   url = "/pages/overview2/"
@@ -59,7 +57,7 @@ enableGitInfo = true
 [[languages.en.menus.after]]
   name = "About"
   url = "/en/pages/about/"
-  weight = 24
+  weight = 23
 
 [languages.de]
   languageName = 'Deutsch'
@@ -158,4 +156,7 @@ enableGitInfo = true
     extensions = ["asciidoctor"]
     workingFolderCurrent = true
     trace = true
-    verbose = true
+    verbose = false
+
+
+
