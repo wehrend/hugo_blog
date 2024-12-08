@@ -3,64 +3,20 @@ languageCode = "en-us"
 title = "Bits & pieces - Sven Wehrend"
 theme = "hugo-book"
 
-[[menu.before]]
-  name = "Web-Blog"
-  url = "/posts/web/"
-  weight = 10
+# Die Standard-Sprache der Website
+defaultContentLanguage = "en"
+# Erzwinge das Sprachverzeichnis auch für die Standardsprache
+defaultContentLanguageInSubdir = true
 
-[[menu.before]]
-  name = "Synth-Blog"
-  url = "/tags/synth/"
-  weight = 20
-
-
-[[menu.before]]
-  name = ""
-  url = "/docs/"
-  weight = 10
-
-  
-[[menu.before]]
-  name = "Electronics 101"
-  url = "/pages/prequel-short-introduction-to-electronics"
-  weight = 26
-
-[[menu.before]]
-  name = "Electronics 102"
-  url = "/pages/short-introduction-to-electronics-102"
-  weight = 27
-
-
-[[menu.after]]
-  name = "Digital Logic 1 (Overview)"
-  url = "/pages/overview/"
-  weight = 20
-
-[[menu.before]]
-  name = "Digital Logic 2 (Overview)"
-  url = "/pages/overview2/"
-  weight = 25
-
-[[menu.after]]
-  name = "About"
-  url = "/pages/about/"
-  weight = 10
-
-  
-[[frontmatter]]
-    date = "filename"
-  
 [params]
+  # Datumsformat für die gesamte Website
   date_format = "2006-01-02"
-  # (Optional, default light) Sets color theme: light, dark or auto.
-  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+
+  # Setzt das Farbschema (light, dark oder auto)
   BookTheme = 'light'
 
-  # (Optional, default true) Controls table of contents visibility on right side of pages.
-  # Start and end levels can be controlled with markup.tableOfContents setting.
-  # You can also specify this parameter per page in front matter.
+  # Steuerung der Sichtbarkeit des Inhaltsverzeichnisses (Table of Contents)
   BookToC = false
-
 
 [security]
   enableInlineShortcodes = false
@@ -69,7 +25,106 @@ theme = "hugo-book"
     osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
 
 [markup.asciidocext]
-    extensions = ["asciidoctor"]
-    workingFolderCurrent = true
-    trace = true
-    verbose = true
+  extensions = ["asciidoctor"]
+  workingFolderCurrent = true
+  trace = true
+  verbose = true
+
+# Multilanguage-Konfiguration
+[languages]
+
+# Englische Spracheinstellungen
+[languages.en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 1 # Sprache mit höchster Priorität (Standard)
+
+  # Sprachspezifisches Menü
+  [[languages.en.menu.before]]
+    name = "Web-Blog"
+    url = "/en/tags/web/"
+    weight = 10
+
+  [[languages.en.menu.before]]
+    name = "Synth-Blog"
+    url = "/en/tags/synth/"
+    weight = 20
+
+  [[languages.en.menu.before]]
+    name = ""
+    url = "/en/docs_en/"
+    weight = 10
+
+  [[languages.en.menu.before]]
+    name = "Electronics 101"
+    url = "/en/docs_en/pages/prequel-short-introduction-to-electronics"
+    weight = 26
+
+  [[languages.en.menu.before]]
+    name = "Electronics 102"
+    url = "/en/docs_en/pages/short-introduction-to-electronics-102"
+    weight = 27
+
+  [[languages.en.menu.after]]
+    name = "Digital Logic 1 (Overview)"
+    url = "/en/docs_en/pages/overview/"
+    weight = 20
+
+ [[languages.en.menu.after]]
+    name = "Digital Logic 2 (Overview)"
+    url = "/en/docs_en/pages/overview2/"
+    weight = 22
+
+
+  [[languages.en.menu.after]]
+    name = "About"
+    url = "/en/docs_en/pages/about/"
+    weight = 12
+
+# Deutsche Spracheinstellungen
+[languages.de]
+  languageName = "Deutsch"
+  contentDir = "content/en"
+  weight = 2 # Sprache mit niedrigerer Priorität
+
+  # Sprachspezifisches Menü
+  [[languages.de.menu.before]]
+    name = "Web-Blog"
+    url = "/de/posts/web/"
+    weight = 10
+
+  [[languages.de.menu.before]]
+    name = "Synth-Blog"
+    url = "/de/tags/synth/"
+    weight = 20
+
+  [[languages.de.menu.before]]
+    name = ""
+    url = "/de/docs/"
+    weight = 10
+
+  [[languages.de.menu.before]]
+    name = "Elektronik 101"
+    url = "/de/docs/pages/prequel-short-introduction-to-electronics"
+    weight = 26
+
+  [[languages.de.menu.before]]
+    name = "Elektronik 102"
+    url = "/de/docs/pages/short-introduction-to-electronics-102"
+    weight = 27
+
+  [[languages.de.menu.after]]
+    name = "Digitale Logik 1 (Übersicht)"
+    url = "/de/docs/pages/overview/"
+    weight = 20
+
+ [[languages.en.menu.after]]
+    name = "Digital Logic 2 (Overview)"
+    url = "/en/docs_en/pages/overview2/"
+    weight = 22
+
+
+  [[languages.de.menu.after]]
+    name = "Über mich"
+    url = "/de/pages/about/"
+    weight = 12
