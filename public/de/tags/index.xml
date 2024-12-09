@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bits &amp; pieces - Sven Wehrend</title>
-    <link>http://localhost:1313/de/tags/</link>
+    <link>http://localhost:1313/de/tags.html</link>
     <description>Recent content in Tags on Bits &amp; pieces - Sven Wehrend</description>
     <generator>Hugo</generator>
     <language>de</language>
@@ -10,212 +10,212 @@
     <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginners</title>
-      <link>http://localhost:1313/de/tags/beginners/</link>
+      <link>http://localhost:1313/de/tags/beginners.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/beginners/</guid>
+      <guid>http://localhost:1313/de/tags/beginners.html</guid>
       <description></description>
     </item>
     <item>
       <title>Debian</title>
-      <link>http://localhost:1313/de/tags/debian/</link>
+      <link>http://localhost:1313/de/tags/debian.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/debian/</guid>
+      <guid>http://localhost:1313/de/tags/debian.html</guid>
       <description></description>
     </item>
     <item>
       <title>Ecad</title>
-      <link>http://localhost:1313/de/tags/ecad/</link>
+      <link>http://localhost:1313/de/tags/ecad.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/ecad/</guid>
+      <guid>http://localhost:1313/de/tags/ecad.html</guid>
       <description></description>
     </item>
     <item>
       <title>Eda</title>
-      <link>http://localhost:1313/de/tags/eda/</link>
+      <link>http://localhost:1313/de/tags/eda.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/eda/</guid>
+      <guid>http://localhost:1313/de/tags/eda.html</guid>
       <description></description>
     </item>
     <item>
       <title>Fpga</title>
-      <link>http://localhost:1313/de/tags/fpga/</link>
+      <link>http://localhost:1313/de/tags/fpga.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/fpga/</guid>
+      <guid>http://localhost:1313/de/tags/fpga.html</guid>
       <description></description>
     </item>
     <item>
       <title>IceCube2</title>
-      <link>http://localhost:1313/de/tags/icecube2/</link>
+      <link>http://localhost:1313/de/tags/icecube2.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/icecube2/</guid>
+      <guid>http://localhost:1313/de/tags/icecube2.html</guid>
       <description></description>
     </item>
     <item>
       <title>Kicad</title>
-      <link>http://localhost:1313/de/tags/kicad/</link>
+      <link>http://localhost:1313/de/tags/kicad.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/kicad/</guid>
+      <guid>http://localhost:1313/de/tags/kicad.html</guid>
       <description></description>
     </item>
     <item>
       <title>Lattice</title>
-      <link>http://localhost:1313/de/tags/lattice/</link>
+      <link>http://localhost:1313/de/tags/lattice.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/lattice/</guid>
+      <guid>http://localhost:1313/de/tags/lattice.html</guid>
       <description></description>
     </item>
     <item>
       <title>Nandland Go</title>
-      <link>http://localhost:1313/de/tags/nandland-go/</link>
+      <link>http://localhost:1313/de/tags/nandland-go.html</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/nandland-go/</guid>
+      <guid>http://localhost:1313/de/tags/nandland-go.html</guid>
       <description></description>
     </item>
     <item>
       <title>DIY</title>
-      <link>http://localhost:1313/de/tags/diy/</link>
+      <link>http://localhost:1313/de/tags/diy.html</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/diy/</guid>
+      <guid>http://localhost:1313/de/tags/diy.html</guid>
       <description></description>
     </item>
     <item>
       <title>Synth</title>
-      <link>http://localhost:1313/de/tags/synth/</link>
+      <link>http://localhost:1313/de/tags/synth.html</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/synth/</guid>
+      <guid>http://localhost:1313/de/tags/synth.html</guid>
       <description></description>
     </item>
     <item>
       <title>Duckburg</title>
-      <link>http://localhost:1313/de/tags/duckburg/</link>
+      <link>http://localhost:1313/de/tags/duckburg.html</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/duckburg/</guid>
+      <guid>http://localhost:1313/de/tags/duckburg.html</guid>
       <description></description>
     </item>
     <item>
       <title>LTB</title>
-      <link>http://localhost:1313/de/tags/ltb/</link>
+      <link>http://localhost:1313/de/tags/ltb.html</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/ltb/</guid>
+      <guid>http://localhost:1313/de/tags/ltb.html</guid>
       <description></description>
     </item>
     <item>
       <title>Quartus</title>
-      <link>http://localhost:1313/de/tags/quartus/</link>
+      <link>http://localhost:1313/de/tags/quartus.html</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/quartus/</guid>
+      <guid>http://localhost:1313/de/tags/quartus.html</guid>
       <description></description>
     </item>
     <item>
       <title>Verilog</title>
-      <link>http://localhost:1313/de/tags/verilog/</link>
+      <link>http://localhost:1313/de/tags/verilog.html</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/verilog/</guid>
+      <guid>http://localhost:1313/de/tags/verilog.html</guid>
       <description></description>
     </item>
     <item>
       <title>Modelsim</title>
-      <link>http://localhost:1313/de/tags/modelsim/</link>
+      <link>http://localhost:1313/de/tags/modelsim.html</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/modelsim/</guid>
+      <guid>http://localhost:1313/de/tags/modelsim.html</guid>
       <description></description>
     </item>
     <item>
       <title>Chemistry</title>
-      <link>http://localhost:1313/de/tags/chemistry/</link>
+      <link>http://localhost:1313/de/tags/chemistry.html</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/chemistry/</guid>
+      <guid>http://localhost:1313/de/tags/chemistry.html</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics</title>
-      <link>http://localhost:1313/de/tags/electronics/</link>
+      <link>http://localhost:1313/de/tags/electronics.html</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/electronics/</guid>
+      <guid>http://localhost:1313/de/tags/electronics.html</guid>
       <description></description>
     </item>
     <item>
       <title>Analog</title>
-      <link>http://localhost:1313/de/tags/analog/</link>
+      <link>http://localhost:1313/de/tags/analog.html</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/analog/</guid>
+      <guid>http://localhost:1313/de/tags/analog.html</guid>
       <description></description>
     </item>
     <item>
       <title>Audio</title>
-      <link>http://localhost:1313/de/tags/audio/</link>
+      <link>http://localhost:1313/de/tags/audio.html</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/audio/</guid>
+      <guid>http://localhost:1313/de/tags/audio.html</guid>
       <description></description>
     </item>
     <item>
       <title>Computing</title>
-      <link>http://localhost:1313/de/tags/computing/</link>
+      <link>http://localhost:1313/de/tags/computing.html</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/computing/</guid>
+      <guid>http://localhost:1313/de/tags/computing.html</guid>
       <description></description>
     </item>
     <item>
       <title>Knowhow</title>
-      <link>http://localhost:1313/de/tags/knowhow/</link>
+      <link>http://localhost:1313/de/tags/knowhow.html</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/knowhow/</guid>
+      <guid>http://localhost:1313/de/tags/knowhow.html</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>http://localhost:1313/de/tags/web/</link>
+      <link>http://localhost:1313/de/tags/web.html</link>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/web/</guid>
+      <guid>http://localhost:1313/de/tags/web.html</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/de/tags/blog/</link>
+      <link>http://localhost:1313/de/tags/blog.html</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/blog/</guid>
+      <guid>http://localhost:1313/de/tags/blog.html</guid>
       <description></description>
     </item>
     <item>
       <title>Consciousness</title>
-      <link>http://localhost:1313/de/tags/consciousness/</link>
+      <link>http://localhost:1313/de/tags/consciousness.html</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/consciousness/</guid>
+      <guid>http://localhost:1313/de/tags/consciousness.html</guid>
       <description></description>
     </item>
     <item>
       <title>Electronic</title>
-      <link>http://localhost:1313/de/tags/electronic/</link>
+      <link>http://localhost:1313/de/tags/electronic.html</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/electronic/</guid>
+      <guid>http://localhost:1313/de/tags/electronic.html</guid>
       <description></description>
     </item>
     <item>
       <title>Draft</title>
-      <link>http://localhost:1313/de/tags/draft/</link>
+      <link>http://localhost:1313/de/tags/draft.html</link>
       <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/draft/</guid>
+      <guid>http://localhost:1313/de/tags/draft.html</guid>
       <description></description>
     </item>
     <item>
       <title>Odoo</title>
-      <link>http://localhost:1313/de/tags/odoo/</link>
+      <link>http://localhost:1313/de/tags/odoo.html</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/odoo/</guid>
+      <guid>http://localhost:1313/de/tags/odoo.html</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/de/tags/hugo/</link>
+      <link>http://localhost:1313/de/tags/hugo.html</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/hugo/</guid>
+      <guid>http://localhost:1313/de/tags/hugo.html</guid>
       <description></description>
     </item>
     <item>
       <title>Nikola</title>
-      <link>http://localhost:1313/de/tags/nikola/</link>
+      <link>http://localhost:1313/de/tags/nikola.html</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/nikola/</guid>
+      <guid>http://localhost:1313/de/tags/nikola.html</guid>
       <description></description>
     </item>
   </channel>

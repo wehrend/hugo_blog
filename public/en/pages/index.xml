@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bits &amp; pieces - Sven Wehrend</title>
-    <link>http://localhost:1313/en/pages/</link>
+    <link>http://localhost:1313/en/pages.html</link>
     <description>Recent content on Bits &amp; pieces - Sven Wehrend</description>
     <generator>Hugo</generator>
     <language>en</language>

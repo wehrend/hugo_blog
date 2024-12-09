@@ -36,12 +36,5 @@
       <guid>http://localhost:1313/de/docs_en/pages/overview/</guid>
       <description>&lt;div class=&#34;sect1&#34;&gt;&#xA;&lt;h2 id=&#34;_introduction_and_overview&#34;&gt;&lt;strong&gt;Introduction and overview&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;sectionbody&#34;&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Introduction and overview&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Every topic of this course is broken up into two parts:&#xA;A part about the mathematical side of digital logic,&#xA;ideally almost independent from implementation details&#xA;and a more concrete part handling this very details.&#xA;In the concrete part we will mostly discuss the implementation&#xA;on an electrical layer, though there are still other solutions&#xA;possible based on &lt;a href=&#34;https://erik-engheim.medium.com/microprocessors-running-on-air-a47a702dd41f&#34;&gt;fluid dynamics&lt;/a&gt;,&#xA;or &lt;a href=&#34;https://www.photonics.com/Articles/All-Optical_Logic_Gates_Show_Promise_for_Optical/a63226&#34;&gt;optical gates&lt;/a&gt;,&#xA;most computers and logic gates are still based on electronics and semiconductor technology and this will not&#xA;change with &lt;a href=&#34;https://www.azom.com/article.aspx?ArticleID=17173&#34;&gt;quantum computing&lt;/a&gt;, which is mostly tied to / adjunct to&#xA;probability theory. However with quantum computing&#xA;the fundamentals behind which the author describes here will completly change.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/de/docs_en/pages/about/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/docs_en/pages/about/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;A simple static blog meant for writing about topics like electronics &amp;amp; computation and - maybe - philosophy.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr/&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Dear reader of my humble blog , I am Sven Wehrend, a scanner personality born 1987,&#xA;interested in a wide range of different topics reaching from technology over psychology to spirituality.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;I studied Computer Engineering at the HTW Berlin (Bachelor) and TU Berlin (Master).&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr/&gt;</description>
-    </item>
   </channel>
 </rss>

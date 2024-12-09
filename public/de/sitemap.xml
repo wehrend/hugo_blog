@@ -2,914 +2,814 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/posts/</loc>
+    <loc>http://localhost:1313/de/posts.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="http://localhost:1313/en/posts.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/"
+                href="http://localhost:1313/de/posts.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/</loc>
+    <loc>http://localhost:1313/de/posts/web.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/"
+                href="http://localhost:1313/en/posts/web.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/"
+                href="http://localhost:1313/de/posts/web.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/beginners/</loc>
+    <loc>http://localhost:1313/de/tags/beginners.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/beginners/"
+                href="http://localhost:1313/en/tags/beginners.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/beginners/"
+                href="http://localhost:1313/de/tags/beginners.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/27_compiling_kicad_on_debian_bullseye/</loc>
+    <loc>http://localhost:1313/de/posts/web/27_compiling_kicad_on_debian_bullseye.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/27_compiling_kicad_on_debian_bullseye/"
+                href="http://localhost:1313/en/posts/web/27_compiling_kicad_on_debian_bullseye.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/27_compiling_kicad_on_debian_bullseye/"
+                href="http://localhost:1313/de/posts/web/27_compiling_kicad_on_debian_bullseye.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/debian/</loc>
+    <loc>http://localhost:1313/de/tags/debian.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/debian/"
+                href="http://localhost:1313/en/tags/debian.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/debian/"
+                href="http://localhost:1313/de/tags/debian.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/ecad/</loc>
+    <loc>http://localhost:1313/de/tags/ecad.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/ecad/"
+                href="http://localhost:1313/en/tags/ecad.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/ecad/"
+                href="http://localhost:1313/de/tags/ecad.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/eda/</loc>
+    <loc>http://localhost:1313/de/tags/eda.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/eda/"
+                href="http://localhost:1313/en/tags/eda.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/eda/"
+                href="http://localhost:1313/de/tags/eda.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/fpga/</loc>
+    <loc>http://localhost:1313/de/tags/fpga.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/fpga/"
+                href="http://localhost:1313/en/tags/fpga.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/fpga/"
+                href="http://localhost:1313/de/tags/fpga.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/26_get_the_nandlab_go_board_ready_on_debian/</loc>
+    <loc>http://localhost:1313/de/posts/web/26_get_the_nandlab_go_board_ready_on_debian.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/26_get_the_nandlab_go_board_ready_on_debian/"
+                href="http://localhost:1313/en/posts/web/26_get_the_nandlab_go_board_ready_on_debian.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/26_get_the_nandlab_go_board_ready_on_debian/"
+                href="http://localhost:1313/de/posts/web/26_get_the_nandlab_go_board_ready_on_debian.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/icecube2/</loc>
+    <loc>http://localhost:1313/de/tags/icecube2.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/icecube2/"
+                href="http://localhost:1313/en/tags/icecube2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/icecube2/"
+                href="http://localhost:1313/de/tags/icecube2.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/kicad/</loc>
+    <loc>http://localhost:1313/de/tags/kicad.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/kicad/"
+                href="http://localhost:1313/en/tags/kicad.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/kicad/"
+                href="http://localhost:1313/de/tags/kicad.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/lattice/</loc>
+    <loc>http://localhost:1313/de/tags/lattice.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/lattice/"
+                href="http://localhost:1313/en/tags/lattice.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/lattice/"
+                href="http://localhost:1313/de/tags/lattice.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/nandland-go/</loc>
+    <loc>http://localhost:1313/de/tags/nandland-go.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/nandland-go/"
+                href="http://localhost:1313/en/tags/nandland-go.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/nandland-go/"
+                href="http://localhost:1313/de/tags/nandland-go.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
+    <loc>http://localhost:1313/de/tags.html</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/en/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="http://localhost:1313/de/tags.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/25_build_your_own_modules/</loc>
+    <loc>http://localhost:1313/de/posts/synth/25_build_your_own_modules.html</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/25_build_your_own_modules/"
+                href="http://localhost:1313/en/posts/synth/25_build_your_own_modules.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/25_build_your_own_modules/"
+                href="http://localhost:1313/de/posts/synth/25_build_your_own_modules.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/diy/</loc>
+    <loc>http://localhost:1313/de/tags/diy.html</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/diy/"
+                href="http://localhost:1313/en/tags/diy.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/diy/"
+                href="http://localhost:1313/de/tags/diy.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/synth/</loc>
+    <loc>http://localhost:1313/de/tags/synth.html</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/synth/"
+                href="http://localhost:1313/en/tags/synth.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/synth/"
+                href="http://localhost:1313/de/tags/synth.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/ltb162/25_ltb162/</loc>
+    <loc>http://localhost:1313/de/posts/web/ltb162/25_ltb162.html</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/ltb162/25_ltb162/"
+                href="http://localhost:1313/en/posts/web/ltb162/25_ltb162.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/ltb162/25_ltb162/"
+                href="http://localhost:1313/de/posts/web/ltb162/25_ltb162.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/duckburg/</loc>
+    <loc>http://localhost:1313/de/tags/duckburg.html</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/duckburg/"
+                href="http://localhost:1313/en/tags/duckburg.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/duckburg/"
+                href="http://localhost:1313/de/tags/duckburg.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/ltb/</loc>
+    <loc>http://localhost:1313/de/tags/ltb.html</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/ltb/"
+                href="http://localhost:1313/en/tags/ltb.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/ltb/"
+                href="http://localhost:1313/de/tags/ltb.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/24_fpga_beginners_3/</loc>
+    <loc>http://localhost:1313/de/posts/web/24_fpga_beginners_3.html</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/24_fpga_beginners_3/"
+                href="http://localhost:1313/en/posts/web/24_fpga_beginners_3.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/24_fpga_beginners_3/"
+                href="http://localhost:1313/de/posts/web/24_fpga_beginners_3.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/23_fpga_beginners_2/</loc>
+    <loc>http://localhost:1313/de/posts/web/23_fpga_beginners_2.html</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/23_fpga_beginners_2/"
+                href="http://localhost:1313/en/posts/web/23_fpga_beginners_2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/23_fpga_beginners_2/"
+                href="http://localhost:1313/de/posts/web/23_fpga_beginners_2.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/quartus/</loc>
+    <loc>http://localhost:1313/de/tags/quartus.html</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/quartus/"
+                href="http://localhost:1313/en/tags/quartus.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/quartus/"
+                href="http://localhost:1313/de/tags/quartus.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/verilog/</loc>
+    <loc>http://localhost:1313/de/tags/verilog.html</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/verilog/"
+                href="http://localhost:1313/en/tags/verilog.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/verilog/"
+                href="http://localhost:1313/de/tags/verilog.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/22_fpga_beginners_1/</loc>
+    <loc>http://localhost:1313/de/posts/web/22_fpga_beginners_1.html</loc>
     <lastmod>2023-12-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/22_fpga_beginners_1/"
+                href="http://localhost:1313/en/posts/web/22_fpga_beginners_1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/22_fpga_beginners_1/"
+                href="http://localhost:1313/de/posts/web/22_fpga_beginners_1.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/21_fpga_beginners_0/</loc>
+    <loc>http://localhost:1313/de/posts/web/21_fpga_beginners_0.html</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/21_fpga_beginners_0/"
+                href="http://localhost:1313/en/posts/web/21_fpga_beginners_0.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/21_fpga_beginners_0/"
+                href="http://localhost:1313/de/posts/web/21_fpga_beginners_0.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/modelsim/</loc>
+    <loc>http://localhost:1313/de/tags/modelsim.html</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/modelsim/"
+                href="http://localhost:1313/en/tags/modelsim.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/modelsim/"
+                href="http://localhost:1313/de/tags/modelsim.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/chemistry/</loc>
+    <loc>http://localhost:1313/de/tags/chemistry.html</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/chemistry/"
+                href="http://localhost:1313/en/tags/chemistry.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/chemistry/"
+                href="http://localhost:1313/de/tags/chemistry.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/electronics/</loc>
+    <loc>http://localhost:1313/de/tags/electronics.html</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/electronics/"
+                href="http://localhost:1313/en/tags/electronics.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/electronics/"
+                href="http://localhost:1313/de/tags/electronics.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/20_reducing_rare_earth_elements/</loc>
+    <loc>http://localhost:1313/de/posts/web/20_reducing_rare_earth_elements.html</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/20_reducing_rare_earth_elements/"
+                href="http://localhost:1313/en/posts/web/20_reducing_rare_earth_elements.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/20_reducing_rare_earth_elements/"
+                href="http://localhost:1313/de/posts/web/20_reducing_rare_earth_elements.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/19_rare_earth_elements/</loc>
+    <loc>http://localhost:1313/de/posts/web/19_rare_earth_elements.html</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/19_rare_earth_elements/"
+                href="http://localhost:1313/en/posts/web/19_rare_earth_elements.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/19_rare_earth_elements/"
+                href="http://localhost:1313/de/posts/web/19_rare_earth_elements.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/analog/</loc>
+    <loc>http://localhost:1313/de/tags/analog.html</loc>
     <lastmod>2023-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/analog/"
+                href="http://localhost:1313/en/tags/analog.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/analog/"
+                href="http://localhost:1313/de/tags/analog.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/18_op-amps_introduction/</loc>
+    <loc>http://localhost:1313/de/posts/web/18_op-amps_introduction.html</loc>
     <lastmod>2023-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/18_op-amps_introduction/"
+                href="http://localhost:1313/en/posts/web/18_op-amps_introduction.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/18_op-amps_introduction/"
+                href="http://localhost:1313/de/posts/web/18_op-amps_introduction.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/17_analog_computers_101/</loc>
+    <loc>http://localhost:1313/de/posts/web/17_analog_computers_101.html</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/17_analog_computers_101/"
+                href="http://localhost:1313/en/posts/web/17_analog_computers_101.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/17_analog_computers_101/"
+                href="http://localhost:1313/de/posts/web/17_analog_computers_101.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/audio/</loc>
+    <loc>http://localhost:1313/de/tags/audio.html</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/audio/"
+                href="http://localhost:1313/en/tags/audio.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/audio/"
+                href="http://localhost:1313/de/tags/audio.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/computing/</loc>
+    <loc>http://localhost:1313/de/tags/computing.html</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/computing/"
+                href="http://localhost:1313/en/tags/computing.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/computing/"
+                href="http://localhost:1313/de/tags/computing.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/16_noise_floor/</loc>
+    <loc>http://localhost:1313/de/posts/synth/16_noise_floor.html</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/16_noise_floor/"
+                href="http://localhost:1313/en/posts/synth/16_noise_floor.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/16_noise_floor/"
+                href="http://localhost:1313/de/posts/synth/16_noise_floor.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/knowhow/</loc>
+    <loc>http://localhost:1313/de/tags/knowhow.html</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/knowhow/"
+                href="http://localhost:1313/en/tags/knowhow.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/knowhow/"
+                href="http://localhost:1313/de/tags/knowhow.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/15_jam_session/</loc>
+    <loc>http://localhost:1313/de/posts/synth/15_jam_session.html</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/15_jam_session/"
+                href="http://localhost:1313/en/posts/synth/15_jam_session.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/15_jam_session/"
+                href="http://localhost:1313/de/posts/synth/15_jam_session.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/14_another_small_patch/</loc>
+    <loc>http://localhost:1313/de/posts/synth/14_another_small_patch.html</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/14_another_small_patch/"
+                href="http://localhost:1313/en/posts/synth/14_another_small_patch.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/14_another_small_patch/"
+                href="http://localhost:1313/de/posts/synth/14_another_small_patch.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/</loc>
+    <loc>http://localhost:1313/de/pages.html</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs_en/"
+                href="http://localhost:1313/en/pages.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/docs_en/"
+                href="http://localhost:1313/de/pages.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/</loc>
+    <loc>http://localhost:1313/de/pages/short-introduction-to-electronics-102.html</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/short-introduction-to-electronics-102/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/short-introduction-to-electronics-102/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/short-introduction-to-electronics-102/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/posts/synth/13_another_simple_patch/</loc>
+    <loc>http://localhost:1313/de/posts/synth/13_another_simple_patch.html</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/13_another_simple_patch/"
+                href="http://localhost:1313/en/posts/synth/13_another_simple_patch.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/13_another_simple_patch/"
+                href="http://localhost:1313/de/posts/synth/13_another_simple_patch.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/12_caches_and_caching/</loc>
+    <loc>http://localhost:1313/de/posts/web/12_caches_and_caching.html</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/12_caches_and_caching/"
+                href="http://localhost:1313/en/posts/web/12_caches_and_caching.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/12_caches_and_caching/"
+                href="http://localhost:1313/de/posts/web/12_caches_and_caching.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/11_more_patch_ideas/</loc>
+    <loc>http://localhost:1313/de/posts/synth/11_more_patch_ideas.html</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/11_more_patch_ideas/"
+                href="http://localhost:1313/en/posts/synth/11_more_patch_ideas.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/11_more_patch_ideas/"
+                href="http://localhost:1313/de/posts/synth/11_more_patch_ideas.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/web/</loc>
+    <loc>http://localhost:1313/de/tags/web.html</loc>
     <lastmod>2023-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/web/"
+                href="http://localhost:1313/en/tags/web.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/web/"
+                href="http://localhost:1313/de/tags/web.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/blog/</loc>
+    <loc>http://localhost:1313/de/tags/blog.html</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/blog/"
+                href="http://localhost:1313/en/tags/blog.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/blog/"
+                href="http://localhost:1313/de/tags/blog.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/09_eurorack_modular/</loc>
+    <loc>http://localhost:1313/de/posts/synth/09_eurorack_modular.html</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/09_eurorack_modular/"
+                href="http://localhost:1313/en/posts/synth/09_eurorack_modular.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/09_eurorack_modular/"
+                href="http://localhost:1313/de/posts/synth/09_eurorack_modular.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/10_wishlist/</loc>
+    <loc>http://localhost:1313/de/posts/web/10_wishlist.html</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/10_wishlist/"
+                href="http://localhost:1313/en/posts/web/10_wishlist.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/10_wishlist/"
+                href="http://localhost:1313/de/posts/web/10_wishlist.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/consciousness/</loc>
+    <loc>http://localhost:1313/de/tags/consciousness.html</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/consciousness/"
+                href="http://localhost:1313/en/tags/consciousness.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/consciousness/"
+                href="http://localhost:1313/de/tags/consciousness.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/electronic/</loc>
+    <loc>http://localhost:1313/de/tags/electronic.html</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/electronic/"
+                href="http://localhost:1313/en/tags/electronic.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/electronic/"
+                href="http://localhost:1313/de/tags/electronic.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/08_religion_spirituality/</loc>
+    <loc>http://localhost:1313/de/posts/web/08_religion_spirituality.html</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/08_religion_spirituality/"
+                href="http://localhost:1313/en/posts/web/08_religion_spirituality.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/08_religion_spirituality/"
+                href="http://localhost:1313/de/posts/web/08_religion_spirituality.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/07_serial_interfaces/</loc>
+    <loc>http://localhost:1313/de/posts/web/07_serial_interfaces.html</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/07_serial_interfaces/"
+                href="http://localhost:1313/en/posts/web/07_serial_interfaces.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/07_serial_interfaces/"
+                href="http://localhost:1313/de/posts/web/07_serial_interfaces.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/draft/</loc>
+    <loc>http://localhost:1313/de/tags/draft.html</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/draft/"
+                href="http://localhost:1313/en/tags/draft.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/draft/"
+                href="http://localhost:1313/de/tags/draft.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/overview2/</loc>
+    <loc>http://localhost:1313/de/pages/overview2.html</loc>
+    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/synth/06_pocket_operator_modular_400.html</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/overview2/"
+                href="http://localhost:1313/en/posts/synth/06_pocket_operator_modular_400.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/overview2/"
+                href="http://localhost:1313/de/posts/synth/06_pocket_operator_modular_400.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/06_pocket_operator_modular_400/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/synth/06_pocket_operator_modular_400/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/posts/synth/06_pocket_operator_modular_400/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_2/</loc>
+    <loc>http://localhost:1313/de/docs.html</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_2/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_2/10_sequential_logic/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_2.html</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_2/10_sequential_logic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_2/10_sequential_logic/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/posts/synth/05_pocket_operator_modular_400/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_2/10_sequential_logic.html</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/synth/05_pocket_operator_modular_400.html</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/synth/05_pocket_operator_modular_400/"
+                href="http://localhost:1313/en/posts/synth/05_pocket_operator_modular_400.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/synth/05_pocket_operator_modular_400/"
+                href="http://localhost:1313/de/posts/synth/05_pocket_operator_modular_400.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/odoo/</loc>
+    <loc>http://localhost:1313/de/tags/odoo.html</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/odoo/"
+                href="http://localhost:1313/en/tags/odoo.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/odoo/"
+                href="http://localhost:1313/de/tags/odoo.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/04_odoo_hacks/</loc>
+    <loc>http://localhost:1313/de/posts/web/04_odoo_hacks.html</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/04_odoo_hacks/"
+                href="http://localhost:1313/en/posts/web/04_odoo_hacks.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/04_odoo_hacks/"
+                href="http://localhost:1313/de/posts/web/04_odoo_hacks.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_x/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_x.html</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_x/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_x/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_x/x2_cordic/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_x/x2_cordic.html</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_x/x2_cordic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_x/x2_cordic/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/tags/hugo/</loc>
+    <loc>http://localhost:1313/de/tags/hugo.html</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/hugo/"
+                href="http://localhost:1313/en/tags/hugo.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/hugo/"
+                href="http://localhost:1313/de/tags/hugo.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/03_separate_form_and_content/</loc>
+    <loc>http://localhost:1313/de/posts/web/03_separate_form_and_content.html</loc>
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/03_separate_form_and_content/"
+                href="http://localhost:1313/en/posts/web/03_separate_form_and_content.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/03_separate_form_and_content/"
+                href="http://localhost:1313/de/posts/web/03_separate_form_and_content.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_x/x0_multiplication/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_x/x0_multiplication.html</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_x/x0_multiplication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_x/x0_multiplication/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic.html</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/00_combinatorial_logic/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/00_combinatorial_logic.html</loc>
     <lastmod>2022-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/00_combinatorial_logic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/00_combinatorial_logic/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/02_moving-to-hugo/</loc>
+    <loc>http://localhost:1313/de/posts/web/02_moving-to-hugo.html</loc>
     <lastmod>2022-04-15T12:17:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/02_moving-to-hugo/"
+                href="http://localhost:1313/en/posts/web/02_moving-to-hugo.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/02_moving-to-hugo/"
+                href="http://localhost:1313/de/posts/web/02_moving-to-hugo.html"
                 />
   </url><url>
     <loc>http://localhost:1313/de/</loc>
@@ -925,270 +825,128 @@
                 href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/07_risc_v/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/07_risc_v.html</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/07_risc_v/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/07_risc_v/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/06_memory/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/06_memory.html</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/06_memory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/06_memory/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_2/11_clocks_and_registers/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_2/11_clocks_and_registers.html</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_2/11_clocks_and_registers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_2/11_clocks_and_registers/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/05_alu/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/05_alu.html</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/05_alu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/05_alu/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/04_signs/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/04_signs.html</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/04_signs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/04_signs/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/03_binary_system/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/03_binary_system.html</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/03_binary_system/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/03_binary_system/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/02_xor/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/02_xor.html</loc>
     <lastmod>2021-11-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/02_xor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/02_xor/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/prequel-short-introduction-to-electronics/</loc>
+    <loc>http://localhost:1313/de/pages/prequel-short-introduction-to-electronics.html</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/prequel-short-introduction-to-electronics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/prequel-short-introduction-to-electronics/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/01_boolean_algebra/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/01_boolean_algebra.html</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/01_boolean_algebra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/01_boolean_algebra/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/overview/</loc>
+    <loc>http://localhost:1313/de/pages/overview.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/overview/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/overview/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/pages/about/</loc>
+    <loc>http://localhost:1313/de/tags/nikola.html</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs_en/pages/about/"
+                href="http://localhost:1313/en/tags/nikola.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/docs_en/pages/about/"
+                href="http://localhost:1313/de/tags/nikola.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/nikola/</loc>
+    <loc>http://localhost:1313/de/posts/web/00_setting_up_nikola.html</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/nikola/"
+                href="http://localhost:1313/en/posts/web/00_setting_up_nikola.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/nikola/"
+                href="http://localhost:1313/de/posts/web/00_setting_up_nikola.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/00_setting_up_nikola/</loc>
+    <loc>http://localhost:1313/de/about.html</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/00_setting_up_nikola/"
+                href="http://localhost:1313/en/about.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/00_setting_up_nikola/"
+                href="http://localhost:1313/de/about.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/web/01_writing-about-math-with-asciidoc/</loc>
+    <loc>http://localhost:1313/de/posts/web/01_writing-about-math-with-asciidoc.html</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/web/01_writing-about-math-with-asciidoc/"
+                href="http://localhost:1313/en/posts/web/01_writing-about-math-with-asciidoc.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/web/01_writing-about-math-with-asciidoc/"
+                href="http://localhost:1313/de/posts/web/01_writing-about-math-with-asciidoc.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/agenda2/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic/agenda2.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/docs/digital_logic/agenda3.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/drafts/alu2.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/agenda2/"
+                href="http://localhost:1313/en/drafts/alu2.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/agenda2/"
+                href="http://localhost:1313/de/drafts/alu2.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic/agenda3/</loc>
+    <loc>http://localhost:1313/de/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic/agenda3/"
+                href="http://localhost:1313/en/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic/agenda3/"
+                href="http://localhost:1313/de/categories.html"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/drafts/alu2/</loc>
+    <loc>http://localhost:1313/de/docs/digital_logic_2/images/how_does_cpu.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/drafts.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/drafts/alu2/"
+                href="http://localhost:1313/en/drafts.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/drafts/alu2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/pages/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/pages/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/docs_en/digital_logic_2/images/how_does_cpu/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/docs_en/digital_logic_2/images/how_does_cpu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/docs_en/digital_logic_2/images/how_does_cpu/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/drafts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/drafts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/drafts/"
+                href="http://localhost:1313/de/drafts.html"
                 />
   </url>
 </urlset>

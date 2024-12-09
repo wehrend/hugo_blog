@@ -2,6 +2,7 @@ baseURL = "http://wehrend.uber.space/"
 languageCode = "en-us"
 title = "Bits & pieces - Sven Wehrend"
 theme = "hugo-book"
+uglyURLs = true
 
 # Die Standard-Sprache der Website
 defaultContentLanguage = "en"
@@ -84,7 +85,7 @@ defaultContentLanguageInSubdir = true
 # Deutsche Spracheinstellungen
 [languages.de]
   languageName = "Deutsch"
-  contentDir = "content/en"
+  contentDir = "content/de"
   weight = 2 # Sprache mit niedrigerer Priorität
 
   # Sprachspezifisches Menü
@@ -118,11 +119,10 @@ defaultContentLanguageInSubdir = true
     url = "/de/docs/pages/overview/"
     weight = 20
 
- [[languages.en.menu.after]]
-    name = "Digital Logic 2 (Overview)"
-    url = "/en/docs_en/pages/overview2/"
+ [[languages.de.menu.after]]
+    name = "Digitale Logik 2 (Übersicht)"
+    url = "/de/docs/pages/overview2/"
     weight = 22
-
 
   [[languages.de.menu.after]]
     name = "Über mich"
